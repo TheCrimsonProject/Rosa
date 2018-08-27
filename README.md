@@ -1,2 +1,2 @@
 # Rosa
-An iolang implementation.
+A prototype-based programming language.
